@@ -3,5 +3,5 @@
 
 REQUIREMENTS
 
-pyfiglet
+pyfiglet,
 pywhatkit 
